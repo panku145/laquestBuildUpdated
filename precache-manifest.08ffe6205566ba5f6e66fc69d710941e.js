@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a282c215f06d289595bb",
-    "url": "/static/css/main.0d51df35.chunk.css"
+    "revision": "4fa1a90c8d07459c1de9",
+    "url": "/static/css/main.187ced90.chunk.css"
   },
   {
-    "revision": "a282c215f06d289595bb",
-    "url": "/static/js/main.a282c215.chunk.js"
+    "revision": "4fa1a90c8d07459c1de9",
+    "url": "/static/js/main.4fa1a90c.chunk.js"
   },
   {
     "revision": "371a561e5c08935e97ee",
@@ -76,12 +76,12 @@ self.__precacheManifest = [
     "url": "/static/media/bg.971e5731.jpg"
   },
   {
-    "revision": "a67057c3856e70d6fca5decc05690f1c",
-    "url": "/static/media/philippines.a67057c3.jpeg"
-  },
-  {
     "revision": "daeeaf4213d5860d25781ae141c0ee0b",
     "url": "/static/media/india.daeeaf42.jpeg"
+  },
+  {
+    "revision": "a67057c3856e70d6fca5decc05690f1c",
+    "url": "/static/media/philippines.a67057c3.jpeg"
   },
   {
     "revision": "b58214193ebdbb0826e98dc97a7a8c0f",
@@ -320,12 +320,12 @@ self.__precacheManifest = [
     "url": "/static/media/google-partner.51bba39a.png"
   },
   {
-    "revision": "df34087425653d5e3a8f5a260c576144",
-    "url": "/static/media/wallpaper_bg.df340874.jpg"
-  },
-  {
     "revision": "c65234e5d8b0d60202c6be0c5dfab088",
     "url": "/static/media/update_bg.c65234e5.jpg"
+  },
+  {
+    "revision": "df34087425653d5e3a8f5a260c576144",
+    "url": "/static/media/wallpaper_bg.df340874.jpg"
   },
   {
     "revision": "da9223a1cd2901cd13f2b7f0ef434f14",
@@ -496,15 +496,15 @@ self.__precacheManifest = [
     "url": "/static/media/LaQuest-BrMIS-Brochure.d8e3a1f9.pdf"
   },
   {
-    "revision": "0f6e082f42f5247d82c3ade9c2a8f928",
-    "url": "/static/media/Gilroy-ExtraBold.0f6e082f.otf"
-  },
-  {
     "revision": "c62aded729bf7146d491275e5019d7fc",
     "url": "/static/media/Gilroy-Light.c62aded7.otf"
   },
   {
-    "revision": "3babe01563f07787c9c8514dd68f553c",
+    "revision": "0f6e082f42f5247d82c3ade9c2a8f928",
+    "url": "/static/media/Gilroy-ExtraBold.0f6e082f.otf"
+  },
+  {
+    "revision": "352bb033cae57edbf66332ba72518f6b",
     "url": "/index.html"
   }
 ];
