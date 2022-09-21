@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.07d93278.chunk.css",
-  "main.js": "/static/js/main.f3d615eb.chunk.js",
-  "main.js.map": "/static/js/main.f3d615eb.chunk.js.map",
+  "main.css": "/static/css/main.83355ac9.chunk.css",
+  "main.js": "/static/js/main.6c084c28.chunk.js",
+  "main.js.map": "/static/js/main.6c084c28.chunk.js.map",
   "static/js/1.d11f9239.chunk.js": "/static/js/1.d11f9239.chunk.js",
   "static/js/1.d11f9239.chunk.js.map": "/static/js/1.d11f9239.chunk.js.map",
   "static/css/2.e2f09751.chunk.css": "/static/css/2.e2f09751.chunk.css",
@@ -137,13 +137,13 @@
   "static/media/case-banner.png": "/static/media/case-banner.7ce4e2c1.png",
   "static/media/career-banner.png": "/static/media/career-banner.435c0e7b.png",
   "static/media/index.css": "/static/media/Gilroy-ExtraBold.0f6e082f.otf",
-  "static/media/Home.css": "/static/media/wallpaper_bg.df340874.jpg",
+  "static/media/Home.css": "/static/media/update_bg.c65234e5.jpg",
   "static/media/GovtIndustries.css": "/static/media/overview-govt-bg.6cb9d89c.png",
   "static/media/EduIndustries.css": "/static/media/edu2.bbbfde8a.png",
-  "static/media/career.css": "/static/media/roderick.90b58c41.jpg",
+  "static/media/career.css": "/static/media/spotlight.6ccdd4cf.png",
+  "static/css/main.83355ac9.chunk.css.map": "/static/css/main.83355ac9.chunk.css.map",
   "static/css/2.e2f09751.chunk.css.map": "/static/css/2.e2f09751.chunk.css.map",
-  "static/css/main.07d93278.chunk.css.map": "/static/css/main.07d93278.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.a833a1dfd80a3f1ddcb40239790bd218.js": "/precache-manifest.a833a1dfd80a3f1ddcb40239790bd218.js",
+  "precache-manifest.7b3a203d92c44357d7c23fd36394c83a.js": "/precache-manifest.7b3a203d92c44357d7c23fd36394c83a.js",
   "service-worker.js": "/service-worker.js"
 }
