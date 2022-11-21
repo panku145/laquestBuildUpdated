@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "44e8d283168e7a13d8c6",
-    "url": "/static/css/main.952db1a5.chunk.css"
+    "revision": "33c80cf0fd1a7f4f6af3",
+    "url": "/static/css/main.36f932e8.chunk.css"
   },
   {
-    "revision": "44e8d283168e7a13d8c6",
-    "url": "/static/js/main.44e8d283.chunk.js"
+    "revision": "33c80cf0fd1a7f4f6af3",
+    "url": "/static/js/main.33c80cf0.chunk.js"
   },
   {
     "revision": "8dc0c089cdd7eeadf18b",
@@ -108,12 +108,12 @@ self.__precacheManifest = [
     "url": "/static/media/banner.43cb890f.jpeg"
   },
   {
-    "revision": "971e57314ae9b854d0814654b9c3c958",
-    "url": "/static/media/bg.971e5731.jpg"
-  },
-  {
     "revision": "32e2bc1e6db35ed1cc10ff501a94936c",
     "url": "/static/media/google__support.32e2bc1e.jpg"
+  },
+  {
+    "revision": "971e57314ae9b854d0814654b9c3c958",
+    "url": "/static/media/bg.971e5731.jpg"
   },
   {
     "revision": "daeeaf4213d5860d25781ae141c0ee0b",
@@ -132,20 +132,20 @@ self.__precacheManifest = [
     "url": "/static/media/google-meet-hero.c22de617.jfif"
   },
   {
-    "revision": "9b7806034226873466967c3cb693a921",
-    "url": "/static/media/read-use-case2.9b780603.jpg"
-  },
-  {
     "revision": "555b4d2a381636559283885783954931",
     "url": "/static/media/upd.555b4d2a.jpeg"
   },
   {
-    "revision": "593f56a5a887c0ef4154cd1e3f87a5e9",
-    "url": "/static/media/pmc.593f56a5.png"
+    "revision": "9b7806034226873466967c3cb693a921",
+    "url": "/static/media/read-use-case2.9b780603.jpg"
   },
   {
     "revision": "1b40ba2336df5ebff28d2e54f4527de5",
     "url": "/static/media/case-bg2.1b40ba23.png"
+  },
+  {
+    "revision": "593f56a5a887c0ef4154cd1e3f87a5e9",
+    "url": "/static/media/pmc.593f56a5.png"
   },
   {
     "revision": "57cdd0201c34f7485c0b6ef495424d6f",
@@ -600,12 +600,12 @@ self.__precacheManifest = [
     "url": "/static/media/pb.b4ab25cf.png"
   },
   {
-    "revision": "c62aded729bf7146d491275e5019d7fc",
-    "url": "/static/media/Gilroy-Light.c62aded7.otf"
-  },
-  {
     "revision": "0f6e082f42f5247d82c3ade9c2a8f928",
     "url": "/static/media/Gilroy-ExtraBold.0f6e082f.otf"
+  },
+  {
+    "revision": "c62aded729bf7146d491275e5019d7fc",
+    "url": "/static/media/Gilroy-Light.c62aded7.otf"
   },
   {
     "revision": "df34087425653d5e3a8f5a260c576144",
@@ -648,15 +648,15 @@ self.__precacheManifest = [
     "url": "/static/media/gladys.a1b43bc9.png"
   },
   {
-    "revision": "00dbdeb4ecd57f166d689972d955c939",
-    "url": "/static/media/delivery.00dbdeb4.png"
-  },
-  {
     "revision": "78343942602a4184db3398dd88d9786a",
     "url": "/static/media/booking.78343942.png"
   },
   {
-    "revision": "72ad93baac656f2cbc7d22a7509a87dc",
+    "revision": "00dbdeb4ecd57f166d689972d955c939",
+    "url": "/static/media/delivery.00dbdeb4.png"
+  },
+  {
+    "revision": "515fe467b3efceb3a502da9c60b41c76",
     "url": "/index.html"
   }
 ];
