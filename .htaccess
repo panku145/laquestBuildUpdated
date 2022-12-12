@@ -3,13 +3,3 @@ RewriteCond %{HTTP_HOST} ^www.laquest.net/
 RewriteRule (.*) https://laquest.net/$1 [R=301,L]
 
 
-RewriteEngine on
-RewriteCond %{HTTP_HOST} ^laquest.net 
-RewriteRule (.*) https://www.laquest.net/$1 [R=301,L]
-
-<IfModule mod_rewrite.c>
-RewriteEngine On
-RewriteCond %{HTTPS} !on
-RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
-</IfModule>
-
