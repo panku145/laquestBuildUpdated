@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2e3d64fb.css",
-    "main.js": "/static/js/main.ddf6bad0.js",
+    "main.css": "/static/css/main.fee60e54.css",
+    "main.js": "/static/js/main.e5abff50.js",
     "static/js/496.168cabad.chunk.js": "/static/js/496.168cabad.chunk.js",
     "static/media/vsu.png": "/static/media/vsu.c84aa188e4278712c420.png",
     "static/media/LaQuest-Company-Profile-_Email-Version.pdf": "/static/media/LaQuest-Company-Profile-_Email-Version.9a4ae43e382ea2fc5a29.pdf",
@@ -140,11 +140,13 @@
     "static/media/event2.jpg": "/static/media/event2.7bf338b3e20fda8070ac.jpg",
     "static/media/medical.png": "/static/media/medical.cd551608a0a6834b34b7.png",
     "static/media/education.png": "/static/media/education.2d70da3e129716d78635.png",
+    "static/media/google-partner-txt.png": "/static/media/google-partner-txt.6d2c68ffbcd632721d92.png",
     "static/media/philippines.jpeg": "/static/media/philippines.cd3007c27e759b379cd2.jpeg",
     "static/media/agno.png": "/static/media/agno.60fc9cbb6507cb278729.png",
     "static/media/stories2.png": "/static/media/stories2.ff903773d47b366223b0.png",
     "static/media/pillippine.png": "/static/media/pillippine.edeee511f449c2891785.png",
-    "static/media/google-partner.png": "/static/media/google-partner.718875946dc4446ec5e7.png",
+    "static/media/google-partner.png": "/static/media/google-partner.f59d02c24a98079dd674.png",
+    "static/media/google-partner-logo.png": "/static/media/google-partner-logo.1c5dd98b1cbec1f6d1d2.png",
     "static/media/overlay3.png": "/static/media/overlay3.a0e12883838bb9c9a36a.png",
     "static/media/laquest-academy.png": "/static/media/laquest-academy.a3504e7e80add8086c76.png",
     "static/media/pb.png": "/static/media/pb.425135a3ca3ad6ed21f5.png",
@@ -160,12 +162,12 @@
     "index.html": "/index.html",
     "static/media/arrow-right.svg": "/static/media/arrow-right.27907baeb390e94330052f4911d5e4d0.svg",
     "static/media/linkedin.svg": "/static/media/linkedin.a0aaa4948f5be74eeafb732b18e37d74.svg",
-    "main.2e3d64fb.css.map": "/static/css/main.2e3d64fb.css.map",
-    "main.ddf6bad0.js.map": "/static/js/main.ddf6bad0.js.map",
+    "main.fee60e54.css.map": "/static/css/main.fee60e54.css.map",
+    "main.e5abff50.js.map": "/static/js/main.e5abff50.js.map",
     "496.168cabad.chunk.js.map": "/static/js/496.168cabad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e3d64fb.css",
-    "static/js/main.ddf6bad0.js"
+    "static/css/main.fee60e54.css",
+    "static/js/main.e5abff50.js"
   ]
 }
